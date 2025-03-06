@@ -17,9 +17,9 @@ const wallets = [
             options: [
                 "google",
                 "apple",
-                "x",
+/*                 "x",
                 "facebook",
-                "github",
+                "github", */
                 "email",
 /*                 "passkey",
                 "telegram",

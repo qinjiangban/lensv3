@@ -6,7 +6,6 @@ import { account, walletClient, signer, } from "@/lib/walletClient";
 import { evmAddress } from "@lens-protocol/client";
 import { createApp, fetchAccountsAvailable, fetchApp } from "@lens-protocol/client/actions";
 import { client } from "@/lib/clinet";
-import ConnectWallet from "@/components/ConnectWallet";
 import { AppMetadata } from "./AppMetadata";
 import { storageClient } from "@/lib/storageClient";
 import { handleWith } from "@lens-protocol/client/viem";
